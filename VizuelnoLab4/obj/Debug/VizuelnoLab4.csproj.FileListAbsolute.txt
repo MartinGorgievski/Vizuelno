@@ -1,0 +1,11 @@
+C:\Users\Mihajlo\source\repos\VizuelnoLab4\VizuelnoLab4\bin\Debug\VizuelnoLab4.exe.config
+C:\Users\Mihajlo\source\repos\VizuelnoLab4\VizuelnoLab4\bin\Debug\VizuelnoLab4.exe
+C:\Users\Mihajlo\source\repos\VizuelnoLab4\VizuelnoLab4\bin\Debug\VizuelnoLab4.pdb
+C:\Users\Mihajlo\source\repos\VizuelnoLab4\VizuelnoLab4\obj\Debug\VizuelnoLab4.csprojAssemblyReference.cache
+C:\Users\Mihajlo\source\repos\VizuelnoLab4\VizuelnoLab4\obj\Debug\VizuelnoLab4.AddProdukt.resources
+C:\Users\Mihajlo\source\repos\VizuelnoLab4\VizuelnoLab4\obj\Debug\VizuelnoLab4.Form1.resources
+C:\Users\Mihajlo\source\repos\VizuelnoLab4\VizuelnoLab4\obj\Debug\VizuelnoLab4.Properties.Resources.resources
+C:\Users\Mihajlo\source\repos\VizuelnoLab4\VizuelnoLab4\obj\Debug\VizuelnoLab4.csproj.GenerateResource.cache
+C:\Users\Mihajlo\source\repos\VizuelnoLab4\VizuelnoLab4\obj\Debug\VizuelnoLab4.csproj.CoreCompileInputs.cache
+C:\Users\Mihajlo\source\repos\VizuelnoLab4\VizuelnoLab4\obj\Debug\VizuelnoLab4.exe
+C:\Users\Mihajlo\source\repos\VizuelnoLab4\VizuelnoLab4\obj\Debug\VizuelnoLab4.pdb
